@@ -1,5 +1,5 @@
 # file: .github/workflows/show-directory.yml
-name: show-directory
+name: hello
 
 on: push
 
